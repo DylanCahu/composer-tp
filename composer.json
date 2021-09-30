@@ -1,0 +1,13 @@
+{
+    "name": "dylan/composer-tp",
+    "description": "small project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dylan\\ComposerTp\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
