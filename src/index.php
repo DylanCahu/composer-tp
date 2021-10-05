@@ -24,4 +24,3 @@ echo $twig->render('base.html.twig',
         'text'  => 'Texte inséré dans la page.',
     ]
  );
- 
